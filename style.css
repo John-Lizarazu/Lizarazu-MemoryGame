@@ -26,7 +26,10 @@ button{
 border-radius: 5px;
 }
 button:hover{
-  color:white
+  color:white;
+  width: 80px;
+  height: 65px;
+
 }
 #gameButtonArea > button {
   width:200px;
