@@ -34,12 +34,12 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [x] Added hover on Start. button and on Title
+- [x] Added hover on Start button and on Title
 
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
+https://imgur.com/a/iF4O6vx
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
