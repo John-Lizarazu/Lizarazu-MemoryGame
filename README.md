@@ -77,7 +77,7 @@ the user more interested in the game.]
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording]https://www.loom.com/share/376cf0246dc3469faecea657d7842c6c
 
 
 ## License
