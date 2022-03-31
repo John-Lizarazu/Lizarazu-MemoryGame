@@ -15,18 +15,18 @@
   </head>
   <body>
     <!-- this is the start of content -->
-    <h1>
+    <h1> <!-- Title -->
       Sounds and Lights Memory Game
     </h1>
-    <p>
+    <p> <!-- Info for User-->
       Click Start and Have Fun!
     </p>
-    <button id="startBtn" onclick="startGame()">
+    <button id="startBtn" onclick="startGame()"> <!-- Button to start the game -->
       Start
     </button>
     <button id="stopBtn" class="hidden" onclick="stopGame()">
       Stop
-    </button>
+    </button> <!-- Buttons that will be used for the game for the user to click on -->
     <div id="gameButtonArea">
       <button id="button1" onclick="guess(1)" onmousedown="startTone(1)" onmouseup="stopTone()"></button>
       <button id="button2" onclick="guess(2)" onmousedown="startTone(2)" onmouseup="stopTone()"></button>

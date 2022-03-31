@@ -81,7 +81,6 @@ function winGame(){
   stopGame();
   alert("Game Over. You won!");
 }
-
 // Sound Synthesis Functions
 const freqMap = {
   1: 261.6,
