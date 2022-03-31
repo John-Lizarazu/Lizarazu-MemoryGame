@@ -40,7 +40,6 @@ function playSingleClue(btn){
 }
 function playClueSequence(){
   var guessCounter = 0;
-  context.resume()
   let delay = nextClueWaitTime; //set delay to initial wait time
   for(let i=0;i<=progress;i++){ // for each clue that is revealed so far
     console.log("play single clue: " + pattern[i] + " in " + delay + "ms")
@@ -76,7 +75,7 @@ function guess(btn){
 }
 function loseGame(){
   stopGame();
-  alert("Game Over. You lost.");
+  alert("Game Over. You won!");
 }
 function winGame(){
   stopGame();
