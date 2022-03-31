@@ -51,7 +51,7 @@ https://imgur.com/a/iF4O6vx
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 [A challenge that I encountered when making the game were a few,
 when implementing css style to the #activebuttons I realized that only 
-Button1 was workinng correctly and the others weren't. After further inspecting
+Button1 was working correctly and the others weren't. After further inspecting
 my code I realized the solution to my problem was to add a comma in between
 the css class elements. Another problem that had occured is when implementing my 
 game logic near the end I had to brainstorm for a good and simple logical solution
@@ -66,7 +66,7 @@ I learned from my challenges and had fun in the end.]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 [If I had spent a few more hours on this project I would look back on my code
-and make more comment on what the functions do and go into detail about my work
+and make more comments on what the functions do and go into detail about my work
 so that if someone else would like to review my code they can read my comments and understand
 my way of thinking. I would also refactor my code to make the webiste faster and maybe learn how to not
 overcomplicate my work. A feature I would like to add is making levels and keeping a scoreboard so that others can compete
