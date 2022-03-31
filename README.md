@@ -34,7 +34,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] 
+- [x] Added hover on Start. button and on Title
 
 ## Video Walkthrough (GIF)
 
@@ -46,16 +46,29 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+[I worked on this by myself]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+[A challenge that I encountered when making the game were a few,
+when implementing css style to the #activebuttons I realized that only 
+Button1 was workinng correctly and the others weren't. After further inspecting
+my code I realized the solution to my problem was to add a comma in between
+the css class elements. Another problem that had occured is when implementing my 
+game logic near the end I had to brainstorm for a good and simple logical solution
+to make my code fast but also not make my work as complicated. What I learned
+from my classroom is that runtime is very important and there is simple techniques
+when writing code that can make your work easy to read and take less runtime.
+I learned from my challenges and had fun in the end.]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[How can I make the game have different levels? For example, after winning the game how can I add more "levels" or 
+"rounds" after completing the first level? Also, How do JavaScript,HTML, and CSS all work together? How does the computer know that the three are linked to one another?]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[If I had spent a few more hours on this project I would look back on my code
+and make more comment on what the functions do and go into detail about my work
+so that if someone else would like to review my code they can read my comments and understand
+my way of thinking. I would also refactor my code to make the webiste faster and maybe for my ]
 
 
 
