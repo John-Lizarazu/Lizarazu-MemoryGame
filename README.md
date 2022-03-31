@@ -68,7 +68,10 @@ I learned from my challenges and had fun in the end.]
 [If I had spent a few more hours on this project I would look back on my code
 and make more comment on what the functions do and go into detail about my work
 so that if someone else would like to review my code they can read my comments and understand
-my way of thinking. I would also refactor my code to make the webiste faster and maybe for my ]
+my way of thinking. I would also refactor my code to make the webiste faster and maybe learn how to not
+overcomplicate my work. A feature I would like to add is making levels and keeping a scoreboard so that others can compete
+but also a simple code feature I would like to do is make the 4 boxes hover or have different css animations to make
+the user more interested in the game.]
 
 
 
