@@ -75,7 +75,7 @@ function guess(btn){
 }
 function loseGame(){
   stopGame();
-  alert("Game Over. You won!");
+  alert("Game Over. You lost.");
 }
 function winGame(){
   stopGame();
